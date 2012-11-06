@@ -1,4 +1,4 @@
 basercms-plugin-calendar
 ========================
 
-BaserCMS用カレンダープラグイン
+baserCMS用カレンダープラグイン
