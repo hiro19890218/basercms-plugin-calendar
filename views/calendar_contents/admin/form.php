@@ -20,7 +20,7 @@ $(window).load(function() {
 
 <?php if($this->action == 'admin_edit'): ?>
 <div class="em-box align-left">
-	<strong>このブログのURL：<?php $bcBaser->link($bcBaser->getUri('/'.$calendarContent['CalendarContent']['name'].'/index'),'/'.$calendarContent['CalendarContent']['name'].'/index') ?></strong>
+	<strong>このカレンダーのURL：<?php $bcBaser->link($bcBaser->getUri('/'.$calendarContent['CalendarContent']['name'].'/index'),'/'.$calendarContent['CalendarContent']['name'].'/index') ?></strong>
 </div>
 <?php endif ?>
 
