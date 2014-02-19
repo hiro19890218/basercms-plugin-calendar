@@ -1,5 +1,5 @@
 <?php
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 /**
  * カレンダー設定ファイル
  * 
